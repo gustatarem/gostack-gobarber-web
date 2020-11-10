@@ -8,18 +8,18 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavo-tatarem/">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-gustavo%20tatarem-gree">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-gustavo%20tatarem-%23FF9000">
   </a>
   
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gustatarem/gostack-gobarber-web">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gustatarem/gostack-gobarber-web?color=%23FF9000">
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gustatarem/gostack-gobarber-web">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gustatarem/gostack-gobarber-web?color=%23FF9000">
   
   <a href="https://github.com/gustatarem/gostack-gobarber-web/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gustatarem/gostack-gobarber-web">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gustatarem/gostack-gobarber-web?color=%23FF9000">
   </a>
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/gustatarem/gostack-gobarber-weB">
+  <img alt="GitHub" src="https://img.shields.io/github/license/gustatarem/gostack-gobarber-weB?color=%23FF9000">
 </p>
 
 <p align="center">
