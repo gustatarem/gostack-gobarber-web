@@ -65,8 +65,6 @@ Tecnologias utilizadas no desenvolvimento do sistema.
 
 Clone o repositório usando o `git` ou faça o download no formato zip. 
 
-**Follow the steps below**
-
 ```bash
 # Vá até a pasta do projeto
 $ cd gostack-gobarber-web
