@@ -82,11 +82,11 @@ $ yarn start
 
 ## 🖥 Screenshots
 
-<img align="center" src=".github/cadastro.png" height="500"/>
-<img align="center" src=".github/login.png" height="500"/>
-<img align="center" src=".github/dashboard.png" height="500"/>
-<img align="center" src=".github/profile.png" height="500"/>
-<img align="center" src=".github/recuperar_senha.png" height="500"/>
+<img align="center" src=".github/cadastro.png" height="400"/>
+<img align="center" src=".github/login.png" height="400"/>
+<img align="center" src=".github/dashboard.png" height="400"/>
+<img align="center" src=".github/profile.png" height="400"/>
+<img align="center" src=".github/recuperar_senha.png" height="400"/>
 
 ## 📝 License
 
